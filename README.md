@@ -1,2 +1,2 @@
 # venkata
-updated the code 
+updated the code in readme
